@@ -1,8 +1,8 @@
 # honest-outage-line
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/competitions/u-mgwals-the-most-honest-outage-line-baaf9c81)
-[![owner](https://img.shields.io/badge/owner-sosissausage35--collab-green)](https://github.com/sosissausage35-collab)
-[![repo](https://img.shields.io/badge/repo-honest--outage--line-orange)](https://github.com/sosissausage35-collab/honest-outage-line)
+[![make.fun · u-mgwals-the-most-honest-outage-line-baaf9c81](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-the-most-honest-outage-line-baaf9c81)
+[![rank](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/sosissausage35-collab/honest-outage-line/rank.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-the-most-honest-outage-line-baaf9c81)
+[![reward](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/sosissausage35-collab/honest-outage-line/reward.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-the-most-honest-outage-line-baaf9c81)
 
 One line, at most 160 characters: the most honest status page message an AI
 agent writes while every server is down.
